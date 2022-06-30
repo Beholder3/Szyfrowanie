@@ -2,7 +2,7 @@
 
 Program szyfrujący i deszyfrujący tekst.
 
- Celem programu będzie szyfrowanie bądź odszyfrowanie tekstu za pomocą prostego klucza symetrycznego podanego przez użytkownika w formie ciągu znaków - wielkich liter alfabetu, przy czym A oznaczać będzie dodanie 1 do kodu szyfrowanego znaku, B - dodanie 2 itd., z "zawinięciem" z powrotem do początku alfabetu gdy "wyjdziemy poza Z". Odszyfrowanie realizowane będzie analogicznie odejmując odpowiednie liczby od kodów kolejnych znaków. Gdy klucz będzie krótszy niż szyfrowany tekst, "przykładamy" go do tekstu cyklicznie. Szyfrowaniu poddane będą tylko wielkie i małe litery alfabetu łacińskiego. Na wejściu należy podać klucz oraz wybrać czy program ma zaszyfrować bądź odszyfrować tekst podany w pliku z rozszerzeniem .txt. Na wyjściu program powinien utworzyć nowy plik .txt, w którym znajdować będzie się zaszyfrowany/odszyfrowany tekst.
+ Celem programu jest szyfrowanie bądź odszyfrowanie tekstu za pomocą prostego klucza symetrycznego podanego przez użytkownika w formie ciągu znaków - wielkich liter alfabetu, przy czym A oznaczać będzie dodanie 1 do kodu szyfrowanego znaku, B - dodanie 2 itd., z "zawinięciem" z powrotem do początku alfabetu gdy "wyjdziemy poza Z". Odszyfrowanie realizowane jest analogicznie odejmując odpowiednie liczby od kodów kolejnych znaków. Gdy klucz będzie krótszy niż szyfrowany tekst, "przykładamy" go do tekstu cyklicznie. Szyfrowaniu poddane będą tylko wielkie i małe litery alfabetu łacińskiego. Na wejściu należy podać klucz oraz wybrać czy program ma zaszyfrować bądź odszyfrować tekst podany w pliku z rozszerzeniem .txt. Na wyjściu program powinien utworzyć nowy plik .txt, w którym znajdować będzie się zaszyfrowany/odszyfrowany tekst.
  
 Opis modułów
 
